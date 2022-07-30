@@ -14,8 +14,6 @@
 }
 
 .second {
-  /* display: inline-block; */
-
   overflow-x: hidden;
   background-color: #1f2937;
   display: flex;
@@ -29,18 +27,15 @@
 .leftText h2 {
   font-size: 48px;
   color: #f9faf8;
-  /* padding-left: 10%; */
 }
 
 .leftText p {
   font-size: 36px;
   color: #e5e7eb;
-  /* padding-left: 10%; */
 }
 
 .pic img {
   max-width: 60%;
-  /* margin: 0 0 0 900px; */
   margin: 0 200px 0 330px;
 }
 
@@ -129,23 +124,3 @@ footer {
   text-align: center;
   padding: 50px;
 }
-/* .item {
-  border-width: thick black;
-} */
-/* 
-.upperPart .flex a {
-  display: block;
-  color: #e5e7eb;
-  size: 18px;
-  float: center;
-  padding-right: auto;
-  padding-left: auto;
-} */
-/* .pic {
-  display: flex;
-}
-.pic img {
-  /* float: right; 
-  max-width: 50%;
-  margin: 0 0 0 15px;
-} */
